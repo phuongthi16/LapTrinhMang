@@ -1,0 +1,10 @@
+D:\HocTap\LapTrinhMang\MultiChat\Client\bin\Debug\Client.exe.config
+D:\HocTap\LapTrinhMang\MultiChat\Client\bin\Debug\Client.exe
+D:\HocTap\LapTrinhMang\MultiChat\Client\bin\Debug\Client.pdb
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.Client.resources
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.exe
+D:\HocTap\LapTrinhMang\MultiChat\Client\obj\Debug\Client.pdb

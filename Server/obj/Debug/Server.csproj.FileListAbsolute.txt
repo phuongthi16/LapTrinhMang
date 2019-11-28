@@ -1,0 +1,10 @@
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.Server.resources
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\HocTap\LapTrinhMang\MultiChat\Server\bin\Debug\Server.exe.config
+D:\HocTap\LapTrinhMang\MultiChat\Server\bin\Debug\Server.exe
+D:\HocTap\LapTrinhMang\MultiChat\Server\bin\Debug\Server.pdb
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.exe
+D:\HocTap\LapTrinhMang\MultiChat\Server\obj\Debug\Server.pdb
